@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=x,g=x,o=x Dir_Perms
+chmod a+x Dir_Perms
