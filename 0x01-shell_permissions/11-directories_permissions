@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x Dir_Perms
+chmod 0755 .
