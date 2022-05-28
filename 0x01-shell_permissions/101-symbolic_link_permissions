@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s _hello vincent:staff
+ln -f _hello vincent:staff 
