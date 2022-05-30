@@ -1,2 +1,2 @@
 #!/bin/bash
-cat<characters | tr Ac Ze 
+cat<characters | tr 'Ac' 'Ze' 
