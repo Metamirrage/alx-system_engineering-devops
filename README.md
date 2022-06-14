@@ -1,1 +1,1 @@
-This is my first readme in the devOPs project
+This directory contains the shell redirections
